@@ -33,6 +33,9 @@ def main():
     option = input('>>')
     option = option.upper() #convert to upper case before checking
     
+    if option == 'Q':
+        return
+    
     # input name and echo input name
     name = input("\nWhat is your name? ")
     print(f"Hello {name}! It is so nice to meet you!\n")
