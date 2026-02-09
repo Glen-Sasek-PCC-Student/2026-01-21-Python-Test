@@ -2,6 +2,7 @@ red
 orange
 yellow
 green
+aquamarine
 blue
 indigo
 violet
